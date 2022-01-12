@@ -1,0 +1,43 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: serif;
+  background-color: #AEFEFF;
+}
+h1{
+  width : 10%;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+
+.main-container{
+  background-color: #AEFEFF;
+  position: relative;
+  padding-top: 100px
+
+
+}
+.middle-container{
+
+}
+.bottom-container{
+}
+.pro{
+  text-decoration: underline;
+}
+
+.bottom-cloud{
+  position: absolute;
+}
+.top-cloud{
+  position: relative;
+  left: 300px;
+}
+.middle-container{
+  margin-top: 50px
+}
+.photo{
+  width: 250px;
+  height: 250px;
+}
